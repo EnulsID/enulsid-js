@@ -1,4 +1,4 @@
-# Multichain Web3 Domains
+# ENULS Web3 Identity
 
 Nodejs SDK
 
